@@ -1,0 +1,80 @@
+body{
+	margin: 0;
+}
+img{
+	width: 850px;
+	height: 200px;
+}
+form{
+	margin-top: 20px;
+}
+.container{
+	width: 850px;
+	height: 100%;
+	background-color: #FBA571;
+	margin-left: 20%;
+	border: 1px solid black;
+}
+.box{
+	width: 819px;
+	height: 100%;
+	background-color: black;
+	display: flex;
+	justify-content: space-around;
+	padding-left: 10px;
+	padding-right: 20px;
+	padding-top: 40px;
+}
+.box img{
+	width: 150px;
+	height: 70px;
+}
+.div2 img{
+	width: 50px;
+	height: 50px;
+}
+table{
+	padding-left: 100px;
+}
+.new input{
+	width: 350px;
+	padding: 17px;
+}
+textarea{
+	width: 346px;
+	padding: 23px;
+}
+.space{
+	padding-left: 400px;
+}
+.box h3,p{
+	color: white;
+}
+input{
+	background-color: #F8F9F9;
+	border: 1px solid #FBA571;
+}
+/*@media screen and(max-width: 360px){
+.container img{
+	width: 550px;
+}
+.container{
+	width: 550px;
+	margin-left: 0%;
+}
+.box{
+	width: 500px;	
+	padding-left: 5pxpx;
+	padding-right: 30px;
+	padding-top: 40px;
+}
+.div2 img{
+	width: 50px;
+	height: 50px;
+}
+table{
+	padding-left: 10px;
+}
+.space{
+	padding-left: 50px;
+}}*/
